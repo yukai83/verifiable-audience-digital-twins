@@ -4,7 +4,7 @@ An agent-based digital twin for simulating audience response to persuasive messa
 It integrates the **COM-B** behavioural feasibility framework with the **Elaboration Likelihood Model (ELM)** for route-dependent persuasion and attitude durability.
 
 > Companion code for: *"Toward Verifiable Audience Digital Twins: An Agent-Based Architecture Integrating COM-B and ELM"* — SIMULTECH 2026,
-> and for its extended version *"Verifiable Audience Digital Twins: Verification, Sensitivity and Identifiability of an Agent-Based Architecture Integrating COM-B and ELM"* (Lecture Notes in Networks and Systems, in review).
+> and for its extended version *"Verifiable Audience Digital Twins: Verification, Sensitivity and Identifiability of an Agent-Based Architecture Integrating COM-B and ELM"* (extended manuscript prepared for Lecture Notes in Networks and Systems).
 >
 > The conference-version code (v1.0) remains at https://github.com/yukai83/ABM-with-COM-B-and-ELM.
 >

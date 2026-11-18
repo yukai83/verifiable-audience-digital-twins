@@ -1,6 +1,6 @@
 [build-system]
 requires = ["setuptools>=68", "wheel"]
-build-backend = "setuptools.backends.legacy:build"
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "audience-dt"
@@ -22,6 +22,9 @@ test = ["pytest>=7"]
 
 [project.scripts]
 audience-dt = "run:main"
+
+[tool.setuptools]
+py-modules = ["run"]
 
 [tool.setuptools.packages.find]
 where = ["."]
