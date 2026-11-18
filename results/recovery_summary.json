@@ -1,0 +1,15 @@
+{
+  "best_eta_c": 0.1,
+  "best_strength_decay": 0.004,
+  "true_eta_c": 0.1,
+  "true_strength_decay": 0.005,
+  "best_distance": 0.026984023323484756,
+  "accept_threshold": 0.04627955926419384,
+  "n_accepted": 10,
+  "accepted_eta_c_min": 0.09,
+  "accepted_eta_c_max": 0.12,
+  "accepted_strength_decay_min": 0.002,
+  "accepted_strength_decay_max": 0.009,
+  "accepted_eta_c_mean": 0.10500000000000001,
+  "accepted_strength_decay_mean": 0.005200000000000001
+}

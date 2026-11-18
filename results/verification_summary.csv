@@ -1,0 +1,14 @@
+group,check,n_configs,n_checks,n_failures
+random parameters,I1 range invariants,20,967492,0
+random parameters,I2 feasibility gate,20,120000,0
+random parameters,I3b Peer=0 without prior shares,20,18900,0
+random parameters,I7 share/repetition bookkeeping,20,1200,0
+scenario traces,I1 range invariants,35,6084211,0
+scenario traces,I2 feasibility gate,35,800000,0
+scenario traces,I3b Peer=0 without prior shares,35,21000,0
+scenario traces,I7 share/repetition bookkeeping,35,4000,0
+unit properties,I3a exposure monotone in Peer,21,71896,0
+unit properties,I4 route monotonicity (Eq. 12),21,48000,0
+unit properties,I5 identity congruence formula,21,24084,0
+unit properties,I6 strength gain ordering,21,5953,0
+unit properties,I8 visibility monotone in cues,21,48000,0
